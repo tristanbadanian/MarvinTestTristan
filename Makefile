@@ -1,11 +1,11 @@
 fclean:
-    @echo "Cleaning build files..."
+	@echo "Cleaning build files..."
 
 make:
-    @echo "Building project..."
+	@echo "Building project..."
 
 tests_run:
-    @echo "Running tests..."
+	@echo "Running tests..."
 
 clean:
-    @echo "Final clean-up."
+	@echo "Final clean-up."
